@@ -1,5 +1,14 @@
 #  Marmara Sea Lodos Storm Analysis: A Mesoscale Study (Jan 8, 2026)
 Multi-scale meteorological analysis of the Jan 8, 2026 Lodos Storm using nested WRF domains (9km & 3km) and ERA5 datasets. Features synoptic-scale heat advection and mesoscale topographic wind channeling.
+<img width="656" height="652" alt="image" src="https://github.com/user-attachments/assets/42c64c53-75da-434f-9edd-183317fcd995" />
+
+
+
+
+
+
+
+
 ```
 Lodos_Storm_Analysis/
 ├── data/                      # Raw datasets (NetCDF format)
