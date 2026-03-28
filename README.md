@@ -44,6 +44,7 @@ The analysis is based on two primary datasets included in the `/data` directory:
 ##  How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Eylem22/Lodos-Storm-Analysis.git
-   cd lodos-storm-analysis
+   git clone https://github.com/Eylem22/Marmara-Sea-Lodos-Storm-Analysis-A-Mesoscale-Study-Jan-8-2026-
+   cd Marmara-Sea-Lodos-Storm-Analysis-A-Mesoscale-Study-Jan-8-2026-
+   cd Lodos_Storm_Analysis
    pip install xarray metpy cartopy scipy netcdf4 matplotlib
